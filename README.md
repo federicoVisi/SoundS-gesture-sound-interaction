@@ -15,3 +15,13 @@ https://www.udk-berlin.de/fileadmin/2_dezentral/FR_Soundstudies/Sonic_Arts/Sylla
 ## GIMLeT Video Tutorials
 1. Installation and linear regression with artifical neural networks: https://youtu.be/Dace1sHy1IM
 2. Gesture following with PoseNet and GVF: https://youtu.be/GoNqiCvVgoY
+
+## Max Tutorials
+1. Beginner video tutorials from Mari Kimura: https://www.youtube.com/playlist?list=PLQEYdqVx2_gN6nJ9UiltBO43eX-X3UF6P
+2. Beginner/Intermediate web tutorials from Darwin Grosse / 20 Objects: http://darwingrosse.com/20Objects/index.html
+3. Intermediate/Advanced video tutorial from Sam Tarakajian: https://www.youtube.com/playlist?list=PLD45EDA6F67827497
+
+## Other resources
+1. MUGIC sensors: https://mugicmotion.com
+2. Darwin Grosse's Art + Music + Technology podcast: ttps://artmusictech.libsyn.com 
+3. Baalman's book "Composing Interactions: An Artist's Guide to Building Expressive Interactive System": https://composinginteractions.art
