@@ -23,5 +23,5 @@ https://www.udk-berlin.de/fileadmin/2_dezentral/FR_Soundstudies/Sonic_Arts/Sylla
 
 ## Other resources
 1. MUGIC sensors: https://mugicmotion.com
-2. Darwin Grosse's Art + Music + Technology podcast: ttps://artmusictech.libsyn.com 
+2. Darwin Grosse's Art + Music + Technology podcast: https://artmusictech.libsyn.com 
 3. Baalman's book "Composing Interactions: An Artist's Guide to Building Expressive Interactive System": https://composinginteractions.art
