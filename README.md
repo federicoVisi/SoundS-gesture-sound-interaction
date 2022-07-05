@@ -20,9 +20,10 @@ https://www.udk-berlin.de/fileadmin/2_dezentral/FR_Soundstudies/Sonic_Arts/Sylla
 1. Beginner video tutorials from Mari Kimura: https://www.youtube.com/playlist?list=PLQEYdqVx2_gN6nJ9UiltBO43eX-X3UF6P
 2. Beginner/Intermediate web tutorials from Darwin Grosse / 20 Objects: http://darwingrosse.com/20Objects/index.html
 3. Intermediate/Advanced video tutorial from Sam Tarakajian: https://www.youtube.com/playlist?list=PLD45EDA6F67827497
+4. For those interested in building neural networks from scratch in Max: https://www.youtube.com/playlist?list=PLnXdT5joUcb1GhPEQizT7NjyPzAM0Y46I
 
 ## Other resources
 1. MUGIC sensors: https://mugicmotion.com
 2. Darwin Grosse's Art + Music + Technology podcast: https://artmusictech.libsyn.com 
 3. Baalman's book "Composing Interactions: An Artist's Guide to Building Expressive Interactive System": https://composinginteractions.art
-4. Fork git client: https://git-fork.com 
+4. Fork git client: https://git-fork.com (better than the GitHub Desktop client because it makes it easier to update submodules)
